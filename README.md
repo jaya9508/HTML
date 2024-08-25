@@ -1,8 +1,12 @@
 # HTML
 ## Table Of Contents
-### 1.Introduction
-### 2.First HTML File 
-### 3.Basic HTML Page
+1. - [Introduction](#Introduction)
+  
+     
+  2. - [First HTML File](#First HTML File)
+    
+     - 
+### 3.- [Basic HTML Page](#Basic HTML Page)
 ### 4.Comments in HTML
 ### 5.HTML is not case sensitive
 ### 6.Basic HTML Tags
@@ -14,7 +18,7 @@
 ### 12.References
 
 
-**Introduction**
+## Introduction
 
 
 HTML 
@@ -39,31 +43,31 @@ It is a default name for a website's homepage
 
 ## Basic HTML Page
 
-<!DOCTYPE html>  tells the browser you are using HTML5
-<html>           root of an html document
-    <head>       container for metadata
+    <!DOCTYPE html>  tells the browser you are using HTML5
+     <html>           root of an html document
+          <head>       container for metadata
         <title>my first page</title>  page title
     </head>
     <body>         contains all data renderd by the browser
         <p>hello world</p>   paragraph tag
     </body>
-</html>
+    </html>
 
 ## Comments in HTML
 
 It help to make code easier to understand.
 
-<!-- this is an HTML comment-->
+    <!-- this is an HTML comment-->
 
 ## HTML is not case sensitive
 
-<html>=<HTML>
-<p>=<P>
-<body>=<BODY>
-<head>=<HEAD>
+    <html>=<HTML>
+    <p>=<P>
+    <body>=<BODY>
+    <head>=<HEAD>
 
 ## Html Tags
-
+    <html lang="eng">
 
 
 
