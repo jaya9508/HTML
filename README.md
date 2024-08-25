@@ -1,21 +1,38 @@
 # HTML
 ## Table Of Contents
+
 1. - [Introduction](#Introduction)
+   
+   - [First HTML File](#FirstHTMFile)
   
      
-  2. - [First HTML File](#First HTML File)
-    
-     - 
-### 3.- [Basic HTML Page](#Basic HTML Page)
-### 4.Comments in HTML
-### 5.HTML is not case sensitive
-### 6.Basic HTML Tags
-### 7.Page Layout Techniques
-### 8.Inside Main Tag
-### 9.List in HTML
-### 10.Tables in HTML
-### 11.Colspan Attribute
-### 12.References
+   - [Basic HTML Page](#BasicHTMLPage)
+     
+-[Comments in HTML](#CommentinHTML)
+
+
+-[HTML is not case sensitive](#HTMLisnotcasesensitive)
+
+
+-[Basic HTML Tags](#BasicHTMLTags)
+
+
+-[Page Layout Techniques](#PagelayoutTechniques)
+
+
+-[Inside Main Tag](#InsideMainTag)
+
+
+- [List in HTML](#ListinHTML)
+
+  
+-[Tables in HTML](#TablesinHTML)
+
+
+-[Colspan Attribute](#ColspanAttribute)
+
+
+-[References](#References)
 
 
 ## Introduction
