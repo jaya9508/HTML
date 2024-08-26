@@ -60,17 +60,15 @@ Index.HTML
 
 ## Basic HTML Page
 
-    <!DOCTYPE html>  <!---
-tells the browser you are using HTML5
--->
-     <html>           ``` root of an html document
-          <head>        ``` container for metadata
-        <title>my first page</title>  ```page title
-    </head>
-    <body>         ``` contains all data renderd by the browser
+      <!DOCTYPE html>  ```tells the browser you are using HTML5
+       <html>           ``` root of an html document
+         <head>        ``` container for metadata
+           <title>my first page</title>  ```page title
+         </head>
+     <body>         ``` contains all data renderd by the browser
         <p>hello world</p>   ``` paragraph tag
-    </body>
-    </html>
+     </body>
+     </html>
 
 ## Comments in HTML
 
