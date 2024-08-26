@@ -3,18 +3,18 @@
 
  - [Introduction](#Introduction)
    
-- [First HTML File](#First-HTM-File)
+ - [First HTML File](#First-HTM-File)
 
   
-- [Basic HTML Page](#BasicHTMLPage)
+ - [Basic HTML Page](#BasicHTMLPage)
      
-- [Comments in HTML](#CommentinHTML)
+ - [Comments in HTML](#CommentinHTML)
 
 
-- [HTML is not case sensitive](#HTMLisnotcasesensitive)
+ - [HTML is not case sensitive](#HTMLisnotcasesensitive)
 
 
-- [HTML Tags](#HTMLTags)
+ - [HTML Tags](#HTMLTags)
 
 
 - [Page Layout Techniques](#PagelayoutTechniques)
