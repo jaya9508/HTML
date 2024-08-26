@@ -6,18 +6,18 @@
  - [First HTML File](#first-html-file)
 
   
- - [Basic HTML Page](#BasicHTMLPage)
+ - [Basic HTML Page](#basic-html-page)
      
- - [Comments in HTML](#CommentinHTML)
+ - [Comments in HTML](#comment-in-html)
 
 
- - [HTML is not case sensitive](#HTMLisnotcasesensitive)
+ - [HTML is not case sensitive](#html-is-not-case-sensitive)
 
 
- - [HTML Tags](#HTMLTags)
+ - [HTML Tags](#html-tags)
 
 
-- [Page Layout Techniques](#PagelayoutTechniques)
+- [Page Layout Techniques](#page-layout-techniques)
 
 
 - [Inside Main Tag](#InsideMainTag)
