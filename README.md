@@ -20,18 +20,18 @@
 - [Page Layout Techniques](#page-layout-techniques)
 
 
-- [Inside Main Tag](#InsideMainTag)
+- [Inside Main Tag](#inside-main-tag)
 
 
-- [List in HTML](#ListinHTML)
+- [List in HTML](#list-in-html)
 
   
-- [Tables in HTML](#TablesinHTML)
+- [Tables in HTML](#tables-in-html)
 
 
-- [Colspan Attribute](#ColspanAttribute)
+- [Colspan Attribute](#colspan-attribute)
 
-- [Form in HTML](#ForminHTML)
+- [Form in HTML](#form-in-html)
 
 
 - [References](#References)
