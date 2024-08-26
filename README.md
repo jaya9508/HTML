@@ -74,7 +74,7 @@ Index.HTML
 
 - It help to make code easier to understand.
 
-    <!-- this is an HTML comment-->
+      <!-- this is an HTML comment-->
 
 ## HTML is not case sensitive
 
