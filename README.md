@@ -14,7 +14,7 @@
 - [HTML is not case sensitive](#HTMLisnotcasesensitive)
 
 
-- [Basic HTML Tags](#BasicHTMLTags)
+- [HTML Tags](#HTMLTags)
 
 
 - [Page Layout Techniques](#PagelayoutTechniques)
@@ -31,6 +31,8 @@
 
 - [Colspan Attribute](#ColspanAttribute)
 
+- [Form in HTML](#ForminHTML)
+
 
 - [References](#References)
 
@@ -46,8 +48,6 @@ HTML is the code that is used to structure a web page and its content.
 
 The component used to design the structure of websites are called HTML tags.
 
-A markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
-
 What do you mean by Markup Language?
 
 It means that a markup language is a computer language that is used to apply layout and formatting conventions to a text document. Markup language makes text more interactive and dynamic. It can turn text into images, tables, links, etc.
@@ -60,13 +60,13 @@ Index.HTML
 
 ## Basic HTML Page
 
-    <!DOCTYPE html>  ``` tells the browser you are using HTML5
-     <html>           ``` root of an html document
-          <head>        ``` container for metadata
-        <title>my first page</title>  ```page title
+    <!DOCTYPE html>     tells the browser you are using HTML5
+     <html>             root of an html document
+          <head>        container for metadata
+        <title>my first page</title>  page title
     </head>
-    <body>         ``` contains all data renderd by the browser
-        <p>hello world</p>   ``` paragraph tag
+    <body>          contains all data renderd by the browser
+        <p>hello world</p>   paragraph tag
     </body>
     </html>
 
@@ -83,7 +83,7 @@ Index.HTML
     <body>=<BODY>
     <head>=<HEAD>
 
-## Html Tags
+## HTML Tags
 ### HTML Attributes
 
 - Attributes are used to add more information.
@@ -155,18 +155,18 @@ Index.HTML
 
 
       <pre>It is sample text</pre>
-
-### Page Layout Techniques
+  
+  ## Page Layout Techniques
 
 - Using Semantic tags for layout.
 
-Using the Right Tags.
+  Using the Right Tags.
 
       <header></header>
       <main></main>
       <footer></footer>
 
-### Inside Main Tag
+## Inside Main Tag
 
 #### Section Tag  
 - For a section on your page.
@@ -182,7 +182,7 @@ Using the Right Tags.
 
       <aside></aside>
 
- ### List in HTML
+ ##  List in HTML
 
  - Lists are used to represent real life list date.
  
@@ -200,14 +200,16 @@ Ordered
     <li>Shyam</li>
     </ol>
 
- ### Tables in HTML
+ ## Tables in HTML
 
  
  - Tables are used to represent real life table data.
  
-    <tr></tr>  ~ used to display table row
-    <td></td>    ~ used to display table data
-    <th></th>  ~ used to display table header
+          <tr></tr>    used to display table row
+          <td></td>    used to display table data
+          <th></th>    used to display table header
+
+      
 #### Example
      <Caption>student Detail</Caption>
         <table>
@@ -220,6 +222,70 @@ Ordered
          <th>102</th>
       </tr>
        </table>
+ ## Colspan attribute 
+
+     Colspan="n"
+- Used to create cells which spans over multiple columns.
+          <td colspan="number">content</td>
+## Form in HTML
+
+- Forms are used to collect data from the user.
+- Eg-sign up/login/help requests/contact me
+
+    <Form>
+     form content
+     </Form>
+ ### Action in Form
+ - Action attribute is used to define what action needs to be performed when a form is submitted.
+
+        <form action="/action.php">
+### Form Element : Input
+
+    <input type="text" placeholder="Enter Name">
+  
+  ### Label
+
+    <label for="id1">
+        <input type="radio"value="class X" name="class" id="id1">
+    </label>
+
+    <label for="id2">
+    <input type="radio" value="class XI name="class" id="id2">
+    </label>
+
+### Checkbox
+    <label for="id1>
+    <input type="checkbox" value="class X" name="class" id="id1">
+    </label>
+
+    <label for="id2">
+    <input type="checkbox" value="class X" name="class" id="id2">
+    </label>
+
+### Select
+
+    <select name="city" id="city>
+    <option value="Delhi">Delhi</option>
+    <option value="Mumbai">Mumbai</option>
+    <option value="Varanasi">Varanasi</option>
+
+  ## References
+
+  
+ [Link](https://www.geeksforgeeks.org/html-tutorial/)
+
+ [Link](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_label)
+
+ [Link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+  
+
+  
+
+       
+
+ 
+       
        
 
       
