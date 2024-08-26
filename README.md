@@ -239,7 +239,7 @@ Ordered
     <form action="/action.php">
 ### Form Element : Input
 
-  <input type="text" placeholder="Enter Name">
+    <input type="text" placeholder="Enter Name">
   
   ### Label
 
@@ -252,20 +252,20 @@ Ordered
     </label>
 
 ### Checkbox
-  <label for="id1>
-  <input type="checkbox" value="class X" name="class" id="id1">
-  </label>
+    <label for="id1>
+      <input type="checkbox" value="class X" name="class" id="id1">
+    </label>
 
-  <label for="id2">
-  <input type="checkbox" value="class X" name="class" id="id2">
-  </label>
+    <label for="id2">
+    <input type="checkbox" value="class X" name="class" id="id2">
+    </label>
 
 ### Select
 
-  <select name="city" id="city>
-  <option value="Delhi">Delhi</option>
-  <option value="Mumbai">Mumbai</option>
-  <option value="Varanasi">Varanasi</option>
+    <select name="city" id="city>
+    <option value="Delhi">Delhi</option>
+    <option value="Mumbai">Mumbai</option>
+    <option value="Varanasi">Varanasi</option>
 
   ## References
 
