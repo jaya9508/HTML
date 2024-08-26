@@ -60,7 +60,7 @@ Index.HTML
 
 ## Basic HTML Page
 
-    <!DOCTYPE html>  ``` tells the browser you are using HTML5
+    <!DOCTYPE html>  [//]: # (tells the browser you are using HTML5) 
      <html>           ``` root of an html document
           <head>        ``` container for metadata
         <title>my first page</title>  ```page title
