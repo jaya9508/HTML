@@ -1,38 +1,38 @@
 # HTML
 ## Table Of Contents
 
-1. - [Introduction](#Introduction)
+ - [Introduction](#Introduction)
    
    - [First HTML File](#FirstHTMFile)
   
      
    - [Basic HTML Page](#BasicHTMLPage)
      
--[Comments in HTML](#CommentinHTML)
+- [Comments in HTML](#CommentinHTML)
 
 
--[HTML is not case sensitive](#HTMLisnotcasesensitive)
+- [HTML is not case sensitive](#HTMLisnotcasesensitive)
 
 
--[Basic HTML Tags](#BasicHTMLTags)
+- [Basic HTML Tags](#BasicHTMLTags)
 
 
--[Page Layout Techniques](#PagelayoutTechniques)
+- [Page Layout Techniques](#PagelayoutTechniques)
 
 
--[Inside Main Tag](#InsideMainTag)
+- [Inside Main Tag](#InsideMainTag)
 
 
 - [List in HTML](#ListinHTML)
 
   
--[Tables in HTML](#TablesinHTML)
+- [Tables in HTML](#TablesinHTML)
 
 
--[Colspan Attribute](#ColspanAttribute)
+- [Colspan Attribute](#ColspanAttribute)
 
 
--[References](#References)
+- [References](#References)
 
 
 ## Introduction
@@ -60,13 +60,13 @@ It is a default name for a website's homepage
 
 ## Basic HTML Page
 
-    <!DOCTYPE html>  tells the browser you are using HTML5
-     <html>           root of an html document
-          <head>       container for metadata
-        <title>my first page</title>  page title
+    <!DOCTYPE html>  ``` tells the browser you are using HTML5
+     <html>           ``` root of an html document
+          <head>        ``` container for metadata
+        <title>my first page</title>  ```page title
     </head>
-    <body>         contains all data renderd by the browser
-        <p>hello world</p>   paragraph tag
+    <body>         ``` contains all data renderd by the browser
+        <p>hello world</p>   ``` paragraph tag
     </body>
     </html>
 
