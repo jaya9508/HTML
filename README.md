@@ -147,8 +147,8 @@ Index.HTML
 
 - Used to display a horizontal rular,used to separate content.
 
-      <sub>O2</sub>
-      <sup>a2+b2<sup/>
+      O<sub>2</sub><br>
+      a<sup>2<sup/>
 
 ### Pre Tag
 - Used to display text as it is(without ignoring spaces and next line).
