@@ -54,9 +54,9 @@ It means that a markup language is a computer language that is used to apply lay
 
 ## First HTML File
 
-Index.HTML
+Index.html
 
-- It is a default name for a website's homepage
+- It is a default name for a website's homepage.
 
 ## Basic HTML Page
 
@@ -74,7 +74,7 @@ Index.HTML
 
 - It help to make code easier to understand.
 
-      <!-- this is an HTML comment-->
+              <!-- this is an HTML comment-->
 
 ## HTML is not case sensitive
 
@@ -106,7 +106,7 @@ Index.HTML
          <p>My name is Jaya</p>
    ### Anchor Tag
 
-  - Used to add links to your page
+  - Used to add links to your page.
 
          <a href=https://github.com/jaya9508/HTML/edit/main/README.md</a>
    
@@ -160,7 +160,7 @@ Index.HTML
 
 - Using Semantic tags for layout.
 
-Using the Right Tags.
+   Using the Right Tags.
 
       <header></header>
       <main></main>
@@ -178,7 +178,7 @@ Using the Right Tags.
       <article></article>
 
 #### Aside Tag
-- For content aside main content(ads)
+- For content aside main content(ads).
 
       <aside></aside>
 
@@ -228,7 +228,7 @@ Ordered
 ## Form in HTML
 
 - Forms are used to collect data from the user.
-- Eg-sign up/login/help requests/contact me
+- Eg-sign up/login/help requests/contact me etc.
 
     <Form>
      form content
