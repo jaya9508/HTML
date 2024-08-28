@@ -243,22 +243,23 @@ Ordered
   
   ### Label
 
-    <label for="id1">
-        <input type="radio"value="class X" name="class" id="id1">
-    </label>
+    
+     <input type="radio"value="class X" name="class" id="id1">
+        <label for="id1"> class X </label>
 
-    <label for="id2">
-    <input type="radio" value="class XI name="class" id="id2">
-    </label>
+    
+    <input type="radio" value="class XI" name="class" id="id2">
+       <label for="id2"> class Xi </label>
 
 ### Checkbox
-    <label for="id1">
+    
       <input type="checkbox" value="class X" name="class" id="id1">
-    </label>
+        <label for="id1">class X</label>
+ 
 
-    <label for="id2">
+    
     <input type="checkbox" value="class X" name="class" id="id2">
-    </label>
+       <label for="id2">class X</label>
 
 ### Select
 
