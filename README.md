@@ -252,7 +252,7 @@ Ordered
     </label>
 
 ### Checkbox
-    <label for="id1>
+    <label for="id1">
       <input type="checkbox" value="class X" name="class" id="id1">
     </label>
 
