@@ -205,9 +205,9 @@ Ordered
  
  - Tables are used to represent real life table data.
  
-    <tr></tr>  ~ used to display table row
-    <td></td>    ~ used to display table data
-    <th></th>  ~ used to display table header
+        <tr></tr>  ~ used to display table row
+        <td></td>    ~ used to display table data
+        <th></th>  ~ used to display table header
 #### Example
      <Caption>student Detail</Caption>
         <table>
@@ -224,7 +224,7 @@ Ordered
 
      Colspan="n"
 - Used to create cells which spans over multiple columns.
-      <td colspan="number">content</td>
+                <td colspan="number">content</td>
 ## Form in HTML
 
 - Forms are used to collect data from the user.
@@ -236,7 +236,7 @@ Ordered
  ### Action in Form
  - Action attribute is used to define what action needs to be performed when a form is submitted.
 
-    <form action="/action.php">
+        <form action="/action.php">
 ### Form Element : Input
 
     <input type="text" placeholder="Enter Name">
@@ -270,11 +270,11 @@ Ordered
   ## References
 
   
- [Link](https://www.geeksforgeeks.org/html-tutorial/)
+ [Link1](https://www.geeksforgeeks.org/html-tutorial/)
 
- [Link](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_label)
+ [Link2](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_label)
 
- [Link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+ [Link3](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
   
 
